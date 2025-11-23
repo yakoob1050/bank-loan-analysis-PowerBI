@@ -1,5 +1,6 @@
 # bank-loan-analysis-PowerBI
 **Project Overview**
+
 This project presents a complete analytical overview of bank loan data using Power BI. It helps monitor loan applications, funded amounts, repayments, borrower financial health, regional lending patterns, and loan performance.
 
 **The dashboard is divided into three pages:**
@@ -8,7 +9,9 @@ This project presents a complete analytical overview of bank loan data using Pow
 2. Good Loan and Loan Status Dashboard
 3. Details Dashboard
 **PAGE 1 – KPI Performance Dashboard**
+
     **Objective**
+   
 To present key loan performance metrics, including totals, Month-to-Date (MTD) values, and Month-over-Month (MoM) trends.
 --Key Performance Indicators--
 1. Total Loan Applications
